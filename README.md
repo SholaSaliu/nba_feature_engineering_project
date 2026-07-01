@@ -3,6 +3,8 @@ file covering the dataset source, prediction goal, and a comprehensive overview 
 
 This project aims to predict the longevity of NBA players in the league, specifically whether a player will last at least 5 years. This is a supervised machine learning task where player statistics are used as features to predict a binary target variable.
 
+This project aims to predict the longevity of NBA players in the league, specifically whether a player will last at least 5 years. This is a supervised machine learning task where player statistics are used as features to predict a binary target variable.
+
 Project Overview
 The goal of this project is to build a predictive model that can assess a rookie NBA player's potential to have a career lasting 5 years or more. This prediction can be valuable for teams in scouting, drafting, and player development.
 
